@@ -1,0 +1,6 @@
+{
+  "name": "playr",
+  "tree": {
+    "$path": "src"
+  }
+}

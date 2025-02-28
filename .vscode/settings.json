@@ -1,0 +1,7 @@
+{
+    "luau-lsp.sourcemap.rojoProjectFile": "devel.project.json",
+    "luau-lsp.ignoreGlobs": [
+        "**/_Index/**",
+        "**/lib/**"
+    ],
+}
